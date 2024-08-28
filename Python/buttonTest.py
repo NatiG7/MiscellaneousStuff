@@ -11,7 +11,7 @@ def onSelect():
 
 ## Cancel button
 def onCancel():
-    print(r'$\sigma$')
+    print("No")
     print("Cancel button clicked")
 
 # Spawning the Tk window
